@@ -32,15 +32,15 @@ export default {
       }
     ,
       backgroundImage: {
-        'model-3':"url('./src/assets/Homepage-Model-3-Desktop-LHD-v2.jpg')",
-        'model-y':"url('./src/assets/Homepage-Model-Y-Desktop-Global.jpg')",
-        'model-x':"url('./src/assets/Homepage-Model-X-Desktop-v2.jpg')",
-        'model-s':"url('./src/assets/Homepage-Model-S-Desktop-v2.jpg')",
-        'cybertrkk':"url('./src/assets/Homepage-Cybertruck-Desktop.jpg')",
-        'solarpanels':"url('./src/assets/Homepage-SolarPanels-01-Desktop.jpg')",
+        'model-3':"url('./src/assets/Homepage-Model-3-Desktop-LHD-v2.avif')",
+        'model-y':"url('./src/assets/Homepage-Model-Y-Desktop-Global.avif')",
+        'model-x':"url('./src/assets/Homepage-Model-X-Desktop-v2.avif')",
+        'model-s':"url('./src/assets/Homepage-Model-S-Desktop-v2.avif')",
+        'cybertrkk':"url('./src/assets/Homepage-Cybertruck-Desktop.avif')",
+        'solarpanels':"url('./src/assets/Homepage-SolarPanels-01-Desktop.avif')",
         'solarroof':"url('./src/assets/Homepage-SolarRoof-Desktop-Global.jfif')",
-        'powerwall':"url('./src/assets/Homepage-Powerwall-01-Desktop.jpg')",
-        'accessories':"url('./src/assets/Homepage-Accessories-Desktop-NA-APAC.jpg')"
+        'powerwall':"url('./src/assets/Homepage-Powerwall-01-Desktop.avif')",
+        'accessories':"url('./src/assets/Homepage-Accessories-Desktop-NA-APAC.avif')"
       },
       keyframes: {
         dropdown: {

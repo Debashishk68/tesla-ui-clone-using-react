@@ -2,7 +2,7 @@ import { RiAccountCircleLine } from "react-icons/ri";
 import { MdLanguage } from "react-icons/md";
 import { FiHelpCircle } from "react-icons/fi";
 // import Button from "./Button"
-import tesla from "../assets/logo.svg";
+// import tesla from "../assets/logo.svg";
 import { useState } from "react";
 import model3 from "../assets/Mega-Menu-Vehicles-Model-3-Performance-LHD.png";
 import modelx from "../assets/Mega-Menu-Vehicles-Model-X.png";
